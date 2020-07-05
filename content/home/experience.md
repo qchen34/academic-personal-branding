@@ -18,27 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Project Manager"
+  company = "State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Shenzhen"
+  date_start = "2018-08-31"
+  date_end = "2019-05-01"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Objective: Build a geographic Information system to easily access and manipulate given raw data
+  * Coordinated between first party and executing departments, participated in presentation of phased objectives and
+modification based on first party requirement.
+  * Performed data pre-processing on 100 thousand raw population data aim to join it with geographical location based on
+national issued standard and stored it in the database. Increased data processing time by 30%.
+  * Colaborated with software team to develop search engine for the cloud platform by implementating Apache Lucene
+Chinese Character Analyzer.
+  * Achieved acceptance rating of 88% with detailed project documentations, reports and presentation enabled quick
+project payment.
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
