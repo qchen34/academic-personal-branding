@@ -30,15 +30,13 @@ interests:
 
 education:
   courses:
-  - course: Creative Application for Mobile Devices
-    institution: University of Toronto
-    year: 2020
-  - course: Programming for Data Science
-    institution: University of Toronto
-    year: 2019
-  - course: Social Media Data Analysis
+  - course: University of Toronto (St Geogre)
+    institution: Master of Information
+    year: 2019 to 2021
+  - course: University at Buffalo (SUNY)
     institution: University of Toronto
     year: 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
