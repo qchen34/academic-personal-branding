@@ -35,7 +35,7 @@ education:
     year: 2019 to 2021
   - course: University at Buffalo
     institution: Bachelor of Science
-    year: 2019
+    year: 2014 to 2018
 
 
 # Social/Academic Networking
