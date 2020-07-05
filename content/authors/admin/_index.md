@@ -30,11 +30,11 @@ interests:
 
 education:
   courses:
-  - course: University of Toronto (St Geogre)
+  - course: University of Toronto
     institution: Master of Information
     year: 2019 to 2021
-  - course: University at Buffalo (SUNY)
-    institution: University of Toronto
+  - course: University at Buffalo
+    institution: Bachelor of Science
     year: 2019
 
 
