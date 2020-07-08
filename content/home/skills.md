@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -27,11 +33,23 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "fa-code"
+  icon = "phone"
   icon_pack = "fas"
-  name = "Programming"
+  name = "Mobile development"
   description = ""
 
+[[feature]]
+  icon = "database"
+  icon_pack = "fab"
+  name = "Database"
+  description = ""
+  
+[[feature]]
+  icon = "keyborad"
+  icon_pack = "fas"
+  name = "Music Production"
+  description = "" 
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

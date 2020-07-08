@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   date_start = "2018-08-31"
   date_end = "2019-05-01"
   description = """
+  Objective: Build a geographic Information system to easily access and manipulate given raw data
   Responsibilities include:
   
-  * Objective: Build a geographic Information system to easily access and manipulate given raw data
   * Coordinated between first party and executing departments, participated in presentation of phased objectives and
 modification based on first party requirement.
   * Performed data pre-processing on 100 thousand raw population data aim to join it with geographical location based on
