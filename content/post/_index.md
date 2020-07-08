@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: How to make a beat from scratch
 
 # View.
 #   1 = List
