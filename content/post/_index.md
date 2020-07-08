@@ -8,7 +8,7 @@ title: How to make a beat from scratch
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header: How to make a beat from scratch
+header:
   caption: "make a trap beat"
   image: ""
 ---
