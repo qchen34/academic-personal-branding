@@ -4,7 +4,7 @@ title: Text and Sentiment Analysis with Covid-19 Twitter Data
 
 date: 2020-01-01
 image: 
-
+---
 Description: 
 * Designed and implemented a service to collect and clean public tweets about covid-19 using Twitter API; Extracted
 keywords using text mining techniques like tokenization and created word cloud for visualization.

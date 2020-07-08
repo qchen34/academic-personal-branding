@@ -1,10 +1,9 @@
 ---
-
 title: Analysis of Academic Probation impact on University Students with RDD
 subtitle: 
 date: 2020-01-01
 image: 
-
+---
 Description: 
 * Implemented Regression Discontinuity Design on the target dataset, followed arbitrary academic probation cutoff based
 on students’ GPA to investigate the impact of Academic probation on university students.
