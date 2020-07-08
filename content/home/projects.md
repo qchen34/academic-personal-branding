@@ -73,5 +73,18 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+[[projects]]
+  title = "Healthy Partner - Physical Fitness Social APP"
+  date_start = "2020-Jan"
+  date_end = "2020-Apr"
+  description = """
+  * Proposed, designed and excuted agile development method on Android application aimed to provide matching service
+for users desired to find compatible partner for physical exercise.
+  * Implemented user authentication, database query and information storage with Google Firebase. Researched and
+designed weighted matching algorithm for user matching and set up chat function for users with services from
+Scaledrone java API client.
+  * Presented and tested the final functionalities of the app with a classroom size audience.
+  """
 +++
 
