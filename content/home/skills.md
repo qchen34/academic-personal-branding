@@ -45,15 +45,11 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "guitar"
+  icon = "piano-key"
   icon_pack = "fab"
   name = "Music Production"
   description = "" 
 
-[[feature]]
-  icon = ":piano:"
-  icon_pack = "emoji"
-  name = "Music Production"
   
 # Uncomment to use emoji icons.
 # [[feature]]
