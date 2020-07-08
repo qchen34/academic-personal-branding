@@ -46,7 +46,7 @@ subtitle = ""
   
 [[feature]]
   icon = "piano"
-  icon_pack = "fab"
+  icon_pack = "far"
   name = "Music Production"
   description = "" 
   
