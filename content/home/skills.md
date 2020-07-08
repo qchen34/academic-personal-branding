@@ -45,7 +45,7 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "keyboard"
+  icon = "midi"
   icon_pack = "fas"
   name = "Music Production"
   description = "" 
