@@ -33,9 +33,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "phone"
+  icon = "android"
   icon_pack = "fas"
-  name = "Mobile development"
+  name = "Android development"
   description = ""
 
 [[feature]]
