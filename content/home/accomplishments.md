@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Stanford"
+  organization_url = "https://www.stanford.com"
+  title = "Machine Learning"
+  url = ""
+  certificate_url = "https://www.stanford.com"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Ableton"

@@ -73,6 +73,15 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+[[item]]
+  title = "Healthy Partner - Physical Fitness Social APP"
+  url = ""
+  certificate_url = "https://www.amazon.com"
+  date_start = "2020-01-01"
+  date_end = "2020-04-01"
+  description = ""
+
 +++
 
 
