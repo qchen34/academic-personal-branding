@@ -33,15 +33,15 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "android"
+  icon = "java"
   icon_pack = "fas"
-  name = "Android development"
+  name = "Java"
   description = ""
 
 [[feature]]
-  icon = "sql"
+  icon = "database"
   icon_pack = "fab"
-  name = "Database"
+  name = "SQL"
   description = ""
   
 [[feature]]
