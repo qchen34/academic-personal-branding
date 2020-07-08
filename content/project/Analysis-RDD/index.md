@@ -3,8 +3,6 @@ title: Analysis of Academic Probation impact on University Students with RDD
 subtitle: 
 date: 2020-01-01
 image: 
-url: https://medium.com/@kalvinchan0415/negative-effect-of-academic-probation-status-on-some-of-the-university-students-academic-success-bba05060210d
-
 ---
 
 * Implemented Regression Discontinuity Design on the target dataset, followed arbitrary academic probation cutoff based
