@@ -39,13 +39,13 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "database"
+  icon = "sql"
   icon_pack = "fab"
   name = "Database"
   description = ""
   
 [[feature]]
-  icon = "keyborad"
+  icon = "keyboard"
   icon_pack = "fas"
   name = "Music Production"
   description = "" 
