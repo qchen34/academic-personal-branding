@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Posts"
-  url = "#featured"
+  name = "Music"
+  url = "#music"
   weight = 40
 
 [[main]]
